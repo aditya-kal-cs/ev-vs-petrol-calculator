@@ -28,8 +28,6 @@
 
 # | Item | Germany | US | UK |
 
-# |---|---|---|---|
-
 # | Petrol price per litre | €2.30 | $1.17 (about $4.41/gal) | £1.74 |
 
 # | Electricity per kWh | €0.37 | $0.18 | £0.263 |
