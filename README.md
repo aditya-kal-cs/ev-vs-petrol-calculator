@@ -40,9 +40,9 @@
 
 # Petrol car 7 L/100 km (US 9), EV 18 kWh/100 km (US 19), extra EV price 5,000,
 
-# distance 12,000 km a year (US 18,500). Car figures and the extra price are rough
+# Distance 12,000 km a year (US 18,500). Car figures and the extra price are rough
 
-# assumptions. Petrol CO₂ uses 2.35 kg/L (EPA: 8,887 g per gallon).
+# Assumptions. Petrol CO₂ uses 2.35 kg/L (EPA: 8,887 g per gallon).
 
 # 
 
